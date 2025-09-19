@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  - gm
+  - Ghinda
+  - Ghinda_aur
+  - TurnPoint
+  - Enemy
+  - EnemyHead
+  - JumpTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Platform
+  - Platform
+  - CiupercaR
+  - Collectable
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CiupercaR
+    uniqueID: 1201486033
+    locked: 0
+  - name: Player
+    uniqueID: 3473732639
+    locked: 0
+  - name: Enemy
+    uniqueID: 3398780545
+    locked: 0
+  - name: Platform
+    uniqueID: 3103773297
+    locked: 0
